@@ -8,7 +8,7 @@
    
    def match(input)
      input.select do |w|
-       w.split("").sort ==
+       w.split("").sort == @word.split("")
      
    end 
  end 
