@@ -7,7 +7,8 @@
    end 
    
    def match(input)
-     
+     input.select do |w|
+       
      
    end 
  end 
