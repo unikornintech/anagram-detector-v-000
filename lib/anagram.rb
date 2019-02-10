@@ -8,7 +8,7 @@
    
    def match(input)
      input.select do |w|
-       
+       w.split("")
      
    end 
  end 
