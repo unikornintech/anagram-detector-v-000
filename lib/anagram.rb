@@ -9,7 +9,7 @@
    def match(input)
      input.select do |w|
        w.split("").sort == @word.split("").sort
-       
+     end 
      
    end 
  end 
