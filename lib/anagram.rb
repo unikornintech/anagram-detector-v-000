@@ -6,7 +6,8 @@
      @word = word
    end 
    
-   def match 
+   def match(input)
+     
      
    end 
  end 
